@@ -1,0 +1,64 @@
+{
+    "package_version": 2,
+    "version": "1.0.1",
+    "name": "ximi-plist-tool",
+    "description": "ximi预览创建序列帧动画的工具",
+    "main": "./dist/main.js",
+    "devDependencies": {
+        "@types/node": "^16.0.1",
+        "typescript": "^4.3.4"
+    },
+    "author": "lujiahao",
+    "editor": ">=3.5.1",
+    "scripts": {
+        "build": "tsc -b",
+        "watch": "tsc -w"
+    },
+    "contributions": {
+        "//调用引擎API": "https://docs.cocos.com/creator/manual/zh/editor/extension/scene-script.html?h=await",
+        "scene": {
+            "script": "./dist/scene.js"
+        },
+        "//自定义资源管理器右键菜单": "",
+        "assets": {
+            "menu": {
+                "methods": "./dist/assets-menu.js",
+                "createMenu": "onCreateMenu",
+                "assetMenu": "onAssetMenu",
+                "dbMenu": "onDBMenu",
+                "panelMenu": "onPanelMenu"
+            }
+        },
+        "//自定义顶部菜单": "",
+        "menu": [
+            {
+                "path": "ximi",
+                "label": "导出注册点",
+                "message": "menuMsg"
+            },
+            {
+                "path": "ximi",
+                "label": "显示选中的SpriteAnimation节点",
+                "message": "menuMsg2"
+            }
+        ],
+        "//消息侦听": "",
+        "messages": {
+            "scene:ready": {
+                "methods": [
+                    "initData"
+                ]
+            },
+            "menuMsg": {
+                "methods": [
+                    "onMenu1"
+                ]
+            },
+            "menuMsg2": {
+                "methods": [
+                    "onMenu2"
+                ]
+            }
+        }
+    }
+}
