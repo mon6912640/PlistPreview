@@ -1,0 +1,48 @@
+
+yljh_qizi.png
+size: 93,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 2
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 51, 28
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 51, 7
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 71
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 58, 80
+  size: 17, 61
+  orig: 17, 61
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 36, 6
+  size: 13, 63
+  orig: 13, 63
+  offset: 0, 0
+  index: -1

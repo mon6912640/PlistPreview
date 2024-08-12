@@ -1,0 +1,111 @@
+
+fantianyin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GH1
+  rotate: false
+  xy: 679, 360
+  size: 258, 150
+  orig: 258, 150
+  offset: 0, 0
+  index: -1
+GH2
+  rotate: true
+  xy: 679, 292
+  size: 66, 138
+  orig: 66, 138
+  offset: 0, 0
+  index: -1
+H1
+  rotate: false
+  xy: 2, 280
+  size: 405, 230
+  orig: 405, 230
+  offset: 0, 0
+  index: -1
+H2
+  rotate: false
+  xy: 2, 57
+  size: 405, 221
+  orig: 405, 221
+  offset: 0, 0
+  index: -1
+H3
+  rotate: false
+  xy: 939, 377
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+H4
+  rotate: false
+  xy: 68, 2
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+T1
+  rotate: false
+  xy: 409, 302
+  size: 268, 208
+  orig: 268, 208
+  offset: 0, 0
+  index: -1
+T2
+  rotate: false
+  xy: 2, 2
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+T3
+  rotate: false
+  xy: 819, 317
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+T4
+  rotate: false
+  xy: 132, 16
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+T5
+  rotate: false
+  xy: 939, 443
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+T6
+  rotate: true
+  xy: 870, 325
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+T7
+  rotate: false
+  xy: 184, 26
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+T8
+  rotate: false
+  xy: 979, 399
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+zhu
+  rotate: false
+  xy: 409, 80
+  size: 247, 220
+  orig: 247, 220
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+sanbafuzi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JIN
+  rotate: false
+  xy: 1, 1
+  size: 117, 98
+  orig: 117, 98
+  offset: 0, 0
+  index: -1
+TONG
+  rotate: false
+  xy: 120, 3
+  size: 115, 96
+  orig: 115, 96
+  offset: 0, 0
+  index: -1
+YING
+  rotate: false
+  xy: 237, 3
+  size: 114, 96
+  orig: 114, 96
+  offset: 0, 0
+  index: -1

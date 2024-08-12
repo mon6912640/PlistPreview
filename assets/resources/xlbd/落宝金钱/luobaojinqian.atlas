@@ -1,0 +1,104 @@
+
+luobaojinqian.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L1
+  rotate: false
+  xy: 335, 51
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+L2
+  rotate: false
+  xy: 404, 91
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+L3
+  rotate: false
+  xy: 803, 181
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+L4
+  rotate: true
+  xy: 711, 136
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+L5
+  rotate: false
+  xy: 2, 2
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+L6
+  rotate: false
+  xy: 589, 122
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+SHUI
+  rotate: false
+  xy: 235, 2
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1
+T1
+  rotate: false
+  xy: 589, 135
+  size: 120, 119
+  orig: 120, 119
+  offset: 0, 0
+  index: -1
+T2
+  rotate: false
+  xy: 443, 116
+  size: 144, 138
+  orig: 144, 138
+  offset: 0, 0
+  index: -1
+T3
+  rotate: false
+  xy: 235, 126
+  size: 206, 128
+  orig: 206, 128
+  offset: 0, 0
+  index: -1
+T4
+  rotate: false
+  xy: 711, 144
+  size: 90, 110
+  orig: 90, 110
+  offset: 0, 0
+  index: -1
+T5
+  rotate: false
+  xy: 803, 192
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+T6
+  rotate: false
+  xy: 235, 62
+  size: 167, 62
+  orig: 167, 62
+  offset: 0, 0
+  index: -1
+ZHU
+  rotate: false
+  xy: 2, 18
+  size: 231, 236
+  orig: 231, 236
+  offset: 0, 0
+  index: -1

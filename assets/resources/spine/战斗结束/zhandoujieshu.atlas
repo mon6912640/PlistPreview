@@ -1,0 +1,62 @@
+
+zhandoujieshu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_4
+  rotate: false
+  xy: 512, 263
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+gm
+  rotate: false
+  xy: 360, 209
+  size: 150, 147
+  orig: 150, 147
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 152
+  size: 356, 358
+  orig: 356, 358
+  offset: 0, 0
+  index: -1
+guangtiao
+  rotate: false
+  xy: 2, 2
+  size: 176, 24
+  orig: 176, 24
+  offset: 0, 0
+  index: -1
+shanzi
+  rotate: false
+  xy: 2, 28
+  size: 293, 122
+  orig: 293, 122
+  offset: 0, 0
+  index: -1
+yunyou
+  rotate: false
+  xy: 360, 435
+  size: 292, 75
+  orig: 292, 75
+  offset: 0, 0
+  index: -1
+yunzuo
+  rotate: false
+  xy: 360, 358
+  size: 292, 75
+  orig: 292, 75
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 654, 426
+  size: 247, 84
+  orig: 247, 84
+  offset: 0, 0
+  index: -1

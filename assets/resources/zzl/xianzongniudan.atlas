@@ -1,0 +1,139 @@
+
+xianzongniudan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 230, 233
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 458, 462
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 691, 691
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 921, 920
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 59, 2
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 230, 176
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 287, 233
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 458, 405
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+扭蛋特效/扭蛋特效_000
+  rotate: false
+  xy: 465, 748
+  size: 226, 227
+  orig: 717, 717
+  offset: 246, 243
+  index: -1
+扭蛋特效/扭蛋特效_001
+  rotate: false
+  xy: 2, 59
+  size: 226, 227
+  orig: 717, 717
+  offset: 246, 243
+  index: -1
+扭蛋特效/扭蛋特效_002
+  rotate: false
+  xy: 2, 519
+  size: 229, 227
+  orig: 717, 717
+  offset: 243, 243
+  index: -1
+扭蛋特效/扭蛋特效_003
+  rotate: false
+  xy: 2, 748
+  size: 230, 227
+  orig: 717, 717
+  offset: 242, 243
+  index: -1
+扭蛋特效/扭蛋特效_004
+  rotate: false
+  xy: 234, 748
+  size: 229, 227
+  orig: 717, 717
+  offset: 243, 243
+  index: -1
+扭蛋特效/扭蛋特效_005
+  rotate: false
+  xy: 233, 519
+  size: 228, 227
+  orig: 717, 717
+  offset: 244, 243
+  index: -1
+扭蛋特效/扭蛋特效_006
+  rotate: false
+  xy: 230, 290
+  size: 226, 227
+  orig: 717, 717
+  offset: 246, 243
+  index: -1
+扭蛋特效/扭蛋特效_007
+  rotate: false
+  xy: 463, 519
+  size: 226, 227
+  orig: 717, 717
+  offset: 246, 243
+  index: -1
+扭蛋特效/扭蛋特效_008
+  rotate: false
+  xy: 693, 748
+  size: 226, 227
+  orig: 717, 717
+  offset: 246, 243
+  index: -1
+扭蛋特效/扭蛋特效_009
+  rotate: false
+  xy: 2, 288
+  size: 226, 229
+  orig: 717, 717
+  offset: 246, 243
+  index: -1

@@ -1,0 +1,188 @@
+
+HBDK.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kguang1
+  rotate: false
+  xy: 2, 161
+  size: 304, 262
+  orig: 304, 262
+  offset: 0, 0
+  index: -1
+Kguang2
+  rotate: false
+  xy: 2, 425
+  size: 398, 186
+  orig: 398, 186
+  offset: 0, 0
+  index: -1
+Kguang3
+  rotate: false
+  xy: 961, 1819
+  size: 398, 220
+  orig: 398, 220
+  offset: 0, 0
+  index: -1
+Khongbaodi
+  rotate: false
+  xy: 521, 1657
+  size: 438, 382
+  orig: 438, 382
+  offset: 0, 0
+  index: -1
+Khudie11
+  rotate: true
+  xy: 1691, 1801
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+Kimg_xinnianhongbao_lang
+  rotate: true
+  xy: 442, 789
+  size: 206, 53
+  orig: 206, 53
+  offset: 0, 0
+  index: -1
+Kjinbi
+  rotate: false
+  xy: 1311, 1609
+  size: 293, 190
+  orig: 293, 190
+  offset: 0, 0
+  index: -1
+beiguang1
+  rotate: false
+  xy: 2, 997
+  size: 510, 510
+  orig: 510, 510
+  offset: 0, 0
+  index: -1
+biguang2
+  rotate: false
+  xy: 2, 1509
+  size: 517, 530
+  orig: 517, 530
+  offset: 0, 0
+  index: -1
+btn_kai
+  rotate: true
+  xy: 1121, 1560
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+font_xinnianhongbao_lang
+  rotate: false
+  xy: 1606, 1611
+  size: 59, 188
+  orig: 59, 188
+  offset: 0, 0
+  index: -1
+hongbao
+  rotate: false
+  xy: 2, 613
+  size: 438, 382
+  orig: 438, 382
+  offset: 0, 0
+  index: -1
+hudie1
+  rotate: false
+  xy: 2007, 1999
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+hudie2
+  rotate: false
+  xy: 1311, 1801
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+hudie3
+  rotate: false
+  xy: 2, 2
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+hudie4
+  rotate: false
+  xy: 402, 598
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+img_gaizi
+  rotate: false
+  xy: 961, 1660
+  size: 348, 157
+  orig: 348, 157
+  offset: 0, 0
+  index: -1
+img_guang
+  rotate: false
+  xy: 521, 1545
+  size: 340, 110
+  orig: 340, 110
+  offset: 0, 0
+  index: -1
+img_guangdian
+  rotate: true
+  xy: 308, 204
+  size: 219, 144
+  orig: 219, 144
+  offset: 0, 0
+  index: -1
+img_guangquan
+  rotate: true
+  xy: 315, 62
+  size: 140, 136
+  orig: 140, 136
+  offset: 0, 0
+  index: -1
+img_hehua
+  rotate: false
+  xy: 1003, 1566
+  size: 116, 92
+  orig: 116, 92
+  offset: 0, 0
+  index: -1
+kaiyuan1
+  rotate: false
+  xy: 863, 1523
+  size: 138, 132
+  orig: 138, 132
+  offset: 0, 0
+  index: -1
+kimg_gaizikai
+  rotate: false
+  xy: 1691, 1853
+  size: 314, 186
+  orig: 314, 186
+  offset: 0, 0
+  index: -1
+yanzi
+  rotate: true
+  xy: 2, 34
+  size: 125, 311
+  orig: 125, 311
+  offset: 0, 0
+  index: -1
+yanzi2
+  rotate: false
+  xy: 442, 651
+  size: 58, 136
+  orig: 58, 136
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: true
+  xy: 1361, 1801
+  size: 238, 328
+  orig: 238, 328
+  offset: 0, 0
+  index: -1
