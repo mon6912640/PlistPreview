@@ -1,0 +1,55 @@
+
+moqi_10810.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuz1
+  rotate: true
+  xy: 540, 257
+  size: 241, 271
+  orig: 241, 271
+  offset: 0, 0
+  index: -1
+fuzi
+  rotate: false
+  xy: 540, 500
+  size: 271, 400
+  orig: 271, 400
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 492, 39
+  size: 217, 216
+  orig: 217, 216
+  offset: 0, 0
+  index: -1
+huoyan
+  rotate: false
+  xy: 813, 545
+  size: 192, 355
+  orig: 192, 355
+  offset: 0, 0
+  index: -1
+huoyan1
+  rotate: false
+  xy: 307, 56
+  size: 183, 366
+  orig: 183, 366
+  offset: 0, 0
+  index: -1
+huoyan2
+  rotate: false
+  xy: 2, 424
+  size: 536, 476
+  orig: 536, 476
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 2
+  size: 303, 420
+  orig: 303, 420
+  offset: 0, 0
+  index: -1

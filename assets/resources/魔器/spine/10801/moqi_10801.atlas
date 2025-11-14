@@ -1,0 +1,97 @@
+
+moqi_10801.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian1
+  rotate: true
+  xy: 208, 329
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 208, 478
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 208, 204
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+dian4
+  rotate: false
+  xy: 208, 266
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+huoyan
+  rotate: true
+  xy: 742, 832
+  size: 154, 224
+  orig: 154, 224
+  offset: 0, 0
+  index: -1
+huoyan1
+  rotate: true
+  xy: 526, 653
+  size: 124, 172
+  orig: 124, 172
+  offset: 0, 0
+  index: -1
+huoyan2
+  rotate: false
+  xy: 2, 79
+  size: 204, 468
+  orig: 204, 468
+  offset: 0, 0
+  index: -1
+huoyan3
+  rotate: false
+  xy: 526, 779
+  size: 214, 207
+  orig: 214, 207
+  offset: 0, 0
+  index: -1
+huoyan4
+  rotate: false
+  xy: 2, 549
+  size: 298, 437
+  orig: 298, 437
+  offset: 0, 0
+  index: -1
+huoyan5
+  rotate: false
+  xy: 208, 397
+  size: 57, 79
+  orig: 57, 79
+  offset: 0, 0
+  index: -1
+kuijia
+  rotate: false
+  xy: 302, 669
+  size: 222, 317
+  orig: 222, 317
+  offset: 0, 0
+  index: -1
+kuijia1
+  rotate: true
+  xy: 302, 527
+  size: 140, 208
+  orig: 140, 208
+  offset: 0, 0
+  index: -1
+kuijia2
+  rotate: true
+  xy: 2, 2
+  size: 75, 195
+  orig: 75, 195
+  offset: 0, 0
+  index: -1

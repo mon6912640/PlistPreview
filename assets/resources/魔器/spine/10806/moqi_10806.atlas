@@ -1,0 +1,69 @@
+
+moqi_10806.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuzi
+  rotate: false
+  xy: 2, 75
+  size: 419, 392
+  orig: 419, 392
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 506, 648
+  size: 398, 364
+  orig: 398, 364
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 469
+  size: 502, 543
+  orig: 502, 543
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: true
+  xy: 2, 2
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+guang4
+  rotate: false
+  xy: 906, 845
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+guang5
+  rotate: false
+  xy: 423, 384
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+guang6
+  rotate: false
+  xy: 906, 919
+  size: 83, 93
+  orig: 83, 93
+  offset: 0, 0
+  index: -1
+guang7
+  rotate: false
+  xy: 610, 573
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+guang8
+  rotate: false
+  xy: 506, 524
+  size: 102, 122
+  orig: 102, 122
+  offset: 0, 0
+  index: -1

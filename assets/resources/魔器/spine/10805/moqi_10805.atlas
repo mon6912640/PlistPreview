@@ -1,0 +1,97 @@
+
+moqi_10805.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianju
+  rotate: false
+  xy: 568, 416
+  size: 364, 307
+  orig: 364, 307
+  offset: 0, 0
+  index: -1
+yangu
+  rotate: false
+  xy: 490, 251
+  size: 114, 163
+  orig: 114, 163
+  offset: 0, 0
+  index: -1
+yanwu2
+  rotate: false
+  xy: 934, 506
+  size: 80, 217
+  orig: 80, 217
+  offset: 0, 0
+  index: -1
+yanwu3
+  rotate: false
+  xy: 568, 725
+  size: 418, 295
+  orig: 418, 295
+  offset: 0, 0
+  index: -1
+yanwu4
+  rotate: true
+  xy: 490, 123
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+yanwu5
+  rotate: true
+  xy: 2, 2
+  size: 420, 486
+  orig: 420, 486
+  offset: 0, 0
+  index: -1
+yanwu6
+  rotate: false
+  xy: 2, 424
+  size: 564, 596
+  orig: 564, 596
+  offset: 0, 0
+  index: -1
+youshangya
+  rotate: false
+  xy: 606, 274
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+youxiaya
+  rotate: false
+  xy: 934, 420
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 606, 313
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+zuoshangya
+  rotate: true
+  xy: 988, 961
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+zuoxiaya
+  rotate: false
+  xy: 709, 332
+  size: 61, 82
+  orig: 61, 82
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 490, 22
+  size: 63, 99
+  orig: 63, 99
+  offset: 0, 0
+  index: -1

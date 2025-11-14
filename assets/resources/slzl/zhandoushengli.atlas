@@ -1,0 +1,83 @@
+
+zhandoushengli.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiquan
+  rotate: true
+  xy: 360, 43
+  size: 343, 137
+  orig: 345, 139
+  offset: 1, 1
+  index: -1
+chibangyou
+  rotate: true
+  xy: 909, 358
+  size: 136, 113
+  orig: 138, 115
+  offset: 1, 1
+  index: -1
+glow_4
+  rotate: false
+  xy: 793, 324
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+gm
+  rotate: false
+  xy: 641, 270
+  size: 150, 147
+  orig: 150, 147
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 28
+  size: 356, 358
+  orig: 356, 358
+  offset: 0, 0
+  index: -1
+guangtiao
+  rotate: false
+  xy: 2, 2
+  size: 176, 24
+  orig: 176, 24
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: true
+  xy: 499, 116
+  size: 270, 56
+  orig: 270, 56
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 641, 179
+  size: 89, 164
+  orig: 91, 166
+  offset: 1, 1
+  index: -1
+meiyong
+  rotate: false
+  xy: 638, 419
+  size: 269, 75
+  orig: 271, 77
+  offset: 1, 1
+  index: -1
+tiaofu
+  rotate: false
+  xy: 2, 388
+  size: 634, 106
+  orig: 636, 108
+  offset: 1, 1
+  index: -1
+zi
+  rotate: true
+  xy: 557, 142
+  size: 244, 82
+  orig: 246, 84
+  offset: 1, 1
+  index: -1

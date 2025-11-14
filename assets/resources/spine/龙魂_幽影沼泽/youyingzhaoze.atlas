@@ -1,0 +1,27 @@
+
+youyingzhaoze.png
+size: 397,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 10
+  size: 175, 174
+  orig: 175, 174
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 179, 43
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 322, 2
+  size: 182, 73
+  orig: 182, 73
+  offset: 0, 0
+  index: -1
